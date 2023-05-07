@@ -81,10 +81,6 @@ print(rateB)
 print("Retention Rate when using Expanded Criteria:")
 print(rateE)
 ```
-## Affect of Expanded Criteria on Disadvantaged Students
-
-Economically disadvantaged students make up a greater proportion of students who passed using the expanded criteria, when compared to students who passed using the basic criteria.
-
 ```{r, include = FALSE}
 
 #creating a stacked bar graph of students who passed under basic criteria
@@ -104,10 +100,19 @@ legend = get_legend(forLegend)
 plotM = grid.arrange(basicDis, expandedDis, ncol=2)
 ```
 
+## Affect of Expanded Criteria on Disadvantaged Students
+
+Economically disadvantaged students make up a greater proportion of students who passed using the expanded criteria, when compared to students who passed using the basic criteria.
+
 ```{r, echo = TRUE}
 grid.arrange(plotM, legend, nrow = 2)
 ```
 
+## Analysis of Test Performance
+
+Given the expansion criteria, one could ostensibly expect all students who meet 3 or 4 proficiency in the state proficiency should also score above 40 percentile in the screener. 
+
+Then, it might be interesting to see students who manage to pass in the state test, but fail in the screener. 
 
 ```{r, include=FALSE}
 
@@ -116,28 +121,16 @@ enb = as.data.frame(setdiff(expandedOnly$Student.ID, basic$Student.ID))
 cross = nrow(basic)-nrow(bne)
 ```
 
-## conitnue 4
-
-```{r}
-print ("Is ")
-print((nrow(basic)-nrow(bne)) == (nrow(expandedOnly)-nrow(enb)))
-
-```
-## pretty
-
-```{r, echo=FALSE}
+```{r, echo = FALSE}
 grid.newpage()
 draw.pairwise.venn(area1=nrow(basic), area2=nrow(expandedOnly),cross.area=cross,
-                   category=c("Basic","expandedOnly"),fill=c("Red","Yellow"))
+                   category=c("State Test 3/4","Screener 40%ile"),fill=c("Red","Yellow"))
 ```
 
+## Final Thoughts
 
-```{r, include=FALSE}
-basicDR = nrow(basic[basic$Economically.Disadvantaged == 'Yes', ]) / nrow(basic)
-expandedOnlyDR = nrow(expandedOnly[expandedOnly$Economically.Disadvantaged == 'Yes', ]) / nrow(expandedOnly)
-```
-
-
-Student in expandedOnly but not in basic
-Student in basic, but not in expandedOnly
-How many more economically disadvantaged students does expanding the criteria help? 
+### Findings:
+* The retention Rate when using Basic Criteria is 0.2014388
+* The retention Rate when using Expanded Criteria is 0.4334532
+* Expanding the criteria is good for economically disadvantaged students
+* 16 People __passed__ in the state test, but __failed__ the screener. 
