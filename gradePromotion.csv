@@ -1,0 +1,557 @@
+"Student.ID","School","Grade.Level","Economically.Disadvantaged","Subject","Test","Testing.Window","Proficiency.Level","Percentile","Basic","Expanded"
+102227,"Creative Learning ES",3,"No","ELA","Screener","FALL",1,16,FALSE,FALSE
+102227,"Creative Learning ES",3,"No","ELA","State Test","SPRING",2,49,FALSE,FALSE
+102227,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,33,FALSE,FALSE
+104261,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,72,TRUE,TRUE
+104261,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,41,FALSE,TRUE
+105140,"Creative Learning ES",3,"Yes","ELA","Screener","FALL",3,89,FALSE,FALSE
+105140,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",3,80,TRUE,TRUE
+107249,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",3,90,TRUE,TRUE
+119996,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",1,6,FALSE,FALSE
+120443,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",1,29,FALSE,FALSE
+120443,"Creative Learning ES",3,"Yes","ELA","Screener","SPRING",1,2,FALSE,FALSE
+120695,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,88,TRUE,TRUE
+120695,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,38,FALSE,FALSE
+122960,"Creative Learning ES",3,"No","ELA","Screener","FALL",2,39,FALSE,FALSE
+122960,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,75,TRUE,TRUE
+122960,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,60,FALSE,TRUE
+124304,"Creative Learning ES",3,"No","ELA","State Test","SPRING",1,29,FALSE,FALSE
+124304,"Creative Learning ES",3,"No","ELA","Screener","SPRING",2,16,FALSE,FALSE
+124313,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",1,29,FALSE,FALSE
+125915,"Creative Learning ES",3,"Yes","ELA","Screener","FALL",3,62,FALSE,FALSE
+127094,"Creative Learning ES",3,"No","ELA","State Test","SPRING",1,6,FALSE,FALSE
+127094,"Creative Learning ES",3,"No","ELA","Screener","SPRING",1,14,FALSE,FALSE
+137096,"Creative Learning ES",3,"Yes","ELA","Screener","FALL",1,21,FALSE,FALSE
+137096,"Creative Learning ES",3,"Yes","ELA","Screener","SPRING",1,5,FALSE,FALSE
+139667,"Creative Learning ES",3,"Yes","ELA","Screener","FALL",2,40,FALSE,FALSE
+139667,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",1,17,FALSE,FALSE
+139667,"Creative Learning ES",3,"Yes","ELA","Screener","SPRING",1,14,FALSE,FALSE
+141671,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,100,TRUE,TRUE
+141671,"Creative Learning ES",3,"No","ELA","Screener","SPRING",4,98,FALSE,TRUE
+141671,"Creative Learning ES",3,"No","ELA","Screener","FALL",4,99,FALSE,FALSE
+143009,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,57,FALSE,FALSE
+143009,"Creative Learning ES",3,"No","ELA","Screener","SPRING",4,96,FALSE,TRUE
+143009,"Creative Learning ES",3,"No","ELA","State Test","SPRING",2,65,FALSE,FALSE
+143825,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,55,FALSE,FALSE
+143825,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,90,TRUE,TRUE
+143825,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,60,FALSE,TRUE
+143867,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,95,TRUE,TRUE
+143867,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,69,FALSE,FALSE
+143867,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,84,FALSE,TRUE
+144962,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,86,TRUE,TRUE
+144962,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,84,FALSE,TRUE
+145304,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,94,TRUE,TRUE
+145304,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,95,FALSE,FALSE
+145304,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,84,FALSE,TRUE
+145424,"Creative Learning ES",3,"No","ELA","State Test","SPRING",2,52,FALSE,FALSE
+146075,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",2,59,FALSE,FALSE
+146075,"Creative Learning ES",3,"Yes","ELA","Screener","SPRING",3,54,FALSE,TRUE
+146873,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,94,TRUE,TRUE
+146873,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,78,FALSE,TRUE
+150029,"Creative Learning ES",3,"No","ELA","State Test","SPRING",2,68,FALSE,FALSE
+150029,"Creative Learning ES",3,"No","ELA","Screener","SPRING",1,11,FALSE,FALSE
+150485,"Creative Learning ES",3,"Yes","ELA","Screener","FALL",3,70,FALSE,FALSE
+150485,"Creative Learning ES",3,"Yes","ELA","Screener","SPRING",3,89,FALSE,TRUE
+150485,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",2,43,FALSE,FALSE
+150785,"Creative Learning ES",3,"No","ELA","State Test","SPRING",1,23,FALSE,FALSE
+150785,"Creative Learning ES",3,"No","ELA","Screener","SPRING",1,12,FALSE,FALSE
+154934,"Creative Learning ES",3,"No","ELA","State Test","SPRING",2,36,FALSE,FALSE
+154934,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,52,FALSE,TRUE
+155048,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",1,1,FALSE,FALSE
+155048,"Creative Learning ES",3,"Yes","ELA","Screener","SPRING",1,8,FALSE,FALSE
+155081,"Creative Learning ES",3,"Yes","ELA","Screener","SPRING",3,32,FALSE,FALSE
+155081,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",1,33,FALSE,FALSE
+155429,"Creative Learning ES",3,"No","ELA","Screener","FALL",1,25,FALSE,FALSE
+155429,"Creative Learning ES",3,"No","ELA","State Test","SPRING",1,13,FALSE,FALSE
+155429,"Creative Learning ES",3,"No","ELA","Screener","SPRING",1,12,FALSE,FALSE
+155588,"Creative Learning ES",3,"Yes","ELA","Screener","SPRING",4,96,FALSE,TRUE
+155588,"Creative Learning ES",3,"Yes","ELA","Screener","FALL",3,90,FALSE,FALSE
+155588,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",3,75,TRUE,TRUE
+155948,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",1,17,FALSE,FALSE
+155948,"Creative Learning ES",3,"Yes","ELA","Screener","SPRING",1,13,FALSE,FALSE
+155957,"Creative Learning ES",3,"Yes","ELA","Screener","FALL",1,16,FALSE,FALSE
+155957,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",1,17,FALSE,FALSE
+155957,"Creative Learning ES",3,"Yes","ELA","Screener","SPRING",1,14,FALSE,FALSE
+155984,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",1,20,FALSE,FALSE
+155984,"Creative Learning ES",3,"Yes","ELA","Screener","SPRING",2,16,FALSE,FALSE
+156149,"Creative Learning ES",3,"No","ELA","Screener","FALL",2,39,FALSE,FALSE
+156149,"Creative Learning ES",3,"No","ELA","Screener","SPRING",2,28,FALSE,FALSE
+156149,"Creative Learning ES",3,"No","ELA","State Test","SPRING",1,33,FALSE,FALSE
+156164,"Creative Learning ES",3,"Yes","ELA","Screener","FALL",1,15,FALSE,FALSE
+156164,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",1,8,FALSE,FALSE
+156167,"Creative Learning ES",3,"Yes","ELA","Screener","FALL",3,62,FALSE,FALSE
+156167,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",3,78,TRUE,TRUE
+156167,"Creative Learning ES",3,"Yes","ELA","Screener","SPRING",3,73,FALSE,TRUE
+156311,"Creative Learning ES",3,"No","ELA","Screener","FALL",2,32,FALSE,FALSE
+156311,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,68,FALSE,TRUE
+156311,"Creative Learning ES",3,"No","ELA","State Test","SPRING",1,33,FALSE,FALSE
+156356,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",2,59,FALSE,FALSE
+156356,"Creative Learning ES",3,"Yes","ELA","Screener","SPRING",2,22,FALSE,FALSE
+156359,"Creative Learning ES",3,"Yes","ELA","Screener","SPRING",4,99,FALSE,TRUE
+156359,"Creative Learning ES",3,"Yes","ELA","Screener","FALL",4,99,FALSE,FALSE
+156359,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",3,86,TRUE,TRUE
+156371,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,65,FALSE,TRUE
+156371,"Creative Learning ES",3,"No","ELA","State Test","SPRING",2,62,FALSE,FALSE
+156389,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",4,95,TRUE,TRUE
+156389,"Creative Learning ES",3,"Yes","ELA","Screener","SPRING",3,84,FALSE,TRUE
+156410,"Creative Learning ES",3,"Yes","ELA","Screener","FALL",1,28,FALSE,FALSE
+156410,"Creative Learning ES",3,"Yes","ELA","Screener","SPRING",2,23,FALSE,FALSE
+156410,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",1,33,FALSE,FALSE
+156422,"Creative Learning ES",3,"Yes","ELA","Screener","FALL",3,99,FALSE,FALSE
+156422,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",1,23,FALSE,FALSE
+156422,"Creative Learning ES",3,"Yes","ELA","Screener","SPRING",1,9,FALSE,FALSE
+156497,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",1,13,FALSE,FALSE
+156512,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",2,52,FALSE,FALSE
+156512,"Creative Learning ES",3,"Yes","ELA","Screener","SPRING",3,60,FALSE,TRUE
+156518,"Creative Learning ES",3,"Yes","ELA","Screener","SPRING",3,57,FALSE,TRUE
+156518,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",1,26,FALSE,FALSE
+156524,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,95,FALSE,FALSE
+156524,"Creative Learning ES",3,"No","ELA","State Test","SPRING",1,23,FALSE,FALSE
+156527,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",3,72,TRUE,TRUE
+156533,"Creative Learning ES",3,"No","ELA","State Test","SPRING",1,23,FALSE,FALSE
+156536,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,70,FALSE,FALSE
+156536,"Creative Learning ES",3,"No","ELA","State Test","SPRING",1,29,FALSE,FALSE
+156545,"Creative Learning ES",3,"No","ELA","State Test","SPRING",1,29,FALSE,FALSE
+156545,"Creative Learning ES",3,"No","ELA","Screener","SPRING",1,12,FALSE,FALSE
+156551,"Creative Learning ES",3,"Yes","ELA","Screener","SPRING",3,71,FALSE,TRUE
+156551,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",2,65,FALSE,FALSE
+156554,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",2,68,FALSE,FALSE
+156590,"Creative Learning ES",3,"Yes","ELA","Screener","FALL",2,50,FALSE,FALSE
+156590,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",2,43,FALSE,FALSE
+156590,"Creative Learning ES",3,"Yes","ELA","Screener","SPRING",2,16,FALSE,FALSE
+156626,"Creative Learning ES",3,"Yes","ELA","Screener","FALL",1,11,FALSE,FALSE
+156626,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",1,13,FALSE,FALSE
+156674,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,99,TRUE,TRUE
+156674,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,96,FALSE,FALSE
+156677,"Creative Learning ES",3,"Yes","ELA","Screener","FALL",1,12,FALSE,FALSE
+156677,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",1,4,FALSE,FALSE
+156677,"Creative Learning ES",3,"Yes","ELA","Screener","SPRING",1,2,FALSE,FALSE
+156680,"Creative Learning ES",3,"Yes","ELA","Screener","FALL",2,32,FALSE,FALSE
+156680,"Creative Learning ES",3,"Yes","ELA","Screener","SPRING",2,22,FALSE,FALSE
+156680,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",1,8,FALSE,FALSE
+156749,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,72,TRUE,TRUE
+157232,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,85,FALSE,FALSE
+157232,"Creative Learning ES",3,"No","ELA","State Test","SPRING",1,13,FALSE,FALSE
+157232,"Creative Learning ES",3,"No","ELA","Screener","SPRING",1,5,FALSE,FALSE
+157346,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",1,13,FALSE,FALSE
+157835,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",1,23,FALSE,FALSE
+161171,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,94,TRUE,TRUE
+161171,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,91,FALSE,TRUE
+161174,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,97,TRUE,TRUE
+161174,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,83,FALSE,FALSE
+161174,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,86,FALSE,TRUE
+161255,"Creative Learning ES",3,"No","ELA","State Test","SPRING",2,52,FALSE,FALSE
+161504,"Creative Learning ES",3,"Yes","ELA","Screener","FALL",3,74,FALSE,FALSE
+162404,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,100,TRUE,TRUE
+162404,"Creative Learning ES",3,"No","ELA","Screener","SPRING",4,98,FALSE,TRUE
+162404,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,95,FALSE,FALSE
+162470,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,72,TRUE,TRUE
+162470,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,31,FALSE,FALSE
+162509,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,95,TRUE,TRUE
+162509,"Creative Learning ES",3,"No","ELA","Screener","SPRING",4,96,FALSE,TRUE
+162509,"Creative Learning ES",3,"No","ELA","Screener","FALL",4,99,FALSE,FALSE
+162521,"Creative Learning ES",3,"No","ELA","Screener","SPRING",4,97,FALSE,TRUE
+162521,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,86,TRUE,TRUE
+162533,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,86,TRUE,TRUE
+162533,"Creative Learning ES",3,"No","ELA","Screener","SPRING",2,23,FALSE,FALSE
+162536,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,99,TRUE,TRUE
+162536,"Creative Learning ES",3,"No","ELA","Screener","SPRING",4,98,FALSE,TRUE
+162650,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,94,TRUE,TRUE
+162650,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,81,FALSE,FALSE
+162650,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,80,FALSE,TRUE
+162671,"Creative Learning ES",3,"No","ELA","State Test","SPRING",2,59,FALSE,FALSE
+162707,"Creative Learning ES",3,"No","ELA","Screener","SPRING",4,99,FALSE,TRUE
+162707,"Creative Learning ES",3,"No","ELA","State Test","SPRING",1,20,FALSE,FALSE
+162722,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,94,TRUE,TRUE
+162722,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,64,FALSE,FALSE
+162722,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,76,FALSE,TRUE
+162779,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,57,FALSE,FALSE
+162779,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,62,FALSE,TRUE
+162779,"Creative Learning ES",3,"No","ELA","State Test","SPRING",2,52,FALSE,FALSE
+162782,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,88,TRUE,TRUE
+162782,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,99,FALSE,FALSE
+162782,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,70,FALSE,TRUE
+162785,"Creative Learning ES",3,"No","ELA","State Test","SPRING",2,49,FALSE,FALSE
+162785,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,32,FALSE,FALSE
+162788,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,98,TRUE,TRUE
+162788,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,82,FALSE,FALSE
+162788,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,71,FALSE,TRUE
+162794,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",2,68,FALSE,FALSE
+162794,"Creative Learning ES",3,"Yes","ELA","Screener","SPRING",2,29,FALSE,FALSE
+162797,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,95,TRUE,TRUE
+162797,"Creative Learning ES",3,"No","ELA","Screener","SPRING",4,96,FALSE,TRUE
+162797,"Creative Learning ES",3,"No","ELA","Screener","FALL",4,99,FALSE,FALSE
+162800,"Creative Learning ES",3,"No","ELA","Screener","FALL",2,36,FALSE,FALSE
+162800,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,58,FALSE,TRUE
+162800,"Creative Learning ES",3,"No","ELA","State Test","SPRING",1,33,FALSE,FALSE
+162803,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,72,TRUE,TRUE
+162803,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,68,FALSE,FALSE
+162803,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,73,FALSE,TRUE
+162806,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,90,TRUE,TRUE
+162806,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,82,FALSE,TRUE
+162806,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,78,FALSE,FALSE
+162812,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,99,TRUE,TRUE
+162812,"Creative Learning ES",3,"No","ELA","Screener","FALL",4,99,FALSE,FALSE
+162812,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,80,FALSE,TRUE
+162836,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,98,TRUE,TRUE
+162836,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,82,FALSE,FALSE
+162836,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,67,FALSE,TRUE
+162842,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,99,TRUE,TRUE
+162842,"Creative Learning ES",3,"No","ELA","Screener","SPRING",4,96,FALSE,TRUE
+162842,"Creative Learning ES",3,"No","ELA","Screener","FALL",4,99,FALSE,FALSE
+162884,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,92,TRUE,TRUE
+162884,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,89,FALSE,TRUE
+162884,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,93,FALSE,FALSE
+162935,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,56,FALSE,FALSE
+162935,"Creative Learning ES",3,"No","ELA","State Test","SPRING",2,59,FALSE,FALSE
+162935,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,43,FALSE,TRUE
+162953,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,98,TRUE,TRUE
+162953,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,83,FALSE,TRUE
+162953,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,97,FALSE,FALSE
+162965,"Creative Learning ES",3,"No","ELA","Screener","SPRING",4,98,FALSE,TRUE
+162965,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,80,TRUE,TRUE
+162974,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,97,TRUE,TRUE
+162974,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,85,FALSE,TRUE
+162974,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,71,FALSE,FALSE
+162977,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",2,65,FALSE,FALSE
+163022,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,84,FALSE,TRUE
+163022,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,83,TRUE,TRUE
+163022,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,81,FALSE,FALSE
+163025,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,99,TRUE,TRUE
+163025,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,83,FALSE,TRUE
+163040,"Creative Learning ES",3,"No","ELA","State Test","SPRING",1,29,FALSE,FALSE
+163040,"Creative Learning ES",3,"No","ELA","Screener","SPRING",1,10,FALSE,FALSE
+163046,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,95,TRUE,TRUE
+163046,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,92,FALSE,TRUE
+163046,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,95,FALSE,FALSE
+163055,"Creative Learning ES",3,"No","ELA","Screener","SPRING",4,97,FALSE,TRUE
+163055,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,98,TRUE,TRUE
+163073,"Creative Learning ES",3,"Yes","ELA","Screener","SPRING",3,74,FALSE,TRUE
+163073,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",2,62,FALSE,FALSE
+163091,"Creative Learning ES",3,"No","ELA","Screener","FALL",1,21,FALSE,FALSE
+163091,"Creative Learning ES",3,"No","ELA","Screener","SPRING",2,18,FALSE,FALSE
+163091,"Creative Learning ES",3,"No","ELA","State Test","SPRING",1,29,FALSE,FALSE
+163121,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,95,TRUE,TRUE
+163121,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,93,FALSE,TRUE
+163121,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,96,FALSE,FALSE
+163130,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,75,TRUE,TRUE
+163130,"Creative Learning ES",3,"No","ELA","Screener","FALL",1,23,FALSE,FALSE
+163130,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,35,FALSE,FALSE
+163133,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,89,FALSE,TRUE
+163133,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,86,TRUE,TRUE
+163133,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,81,FALSE,FALSE
+163142,"Creative Learning ES",3,"No","ELA","Screener","SPRING",4,95,FALSE,TRUE
+163142,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,95,TRUE,TRUE
+163142,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,75,FALSE,FALSE
+163166,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,92,TRUE,TRUE
+163166,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,75,FALSE,TRUE
+163166,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,84,FALSE,FALSE
+163208,"Creative Learning ES",3,"Yes","ELA","Screener","FALL",1,4,FALSE,FALSE
+163208,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",2,56,FALSE,FALSE
+163208,"Creative Learning ES",3,"Yes","ELA","Screener","SPRING",3,43,FALSE,TRUE
+163211,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,91,FALSE,TRUE
+163211,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,80,TRUE,TRUE
+163211,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,97,FALSE,FALSE
+163217,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,75,TRUE,TRUE
+163217,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,73,FALSE,TRUE
+163217,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,76,FALSE,FALSE
+163319,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,86,TRUE,TRUE
+163319,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,85,FALSE,FALSE
+163319,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,68,FALSE,TRUE
+163361,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,75,FALSE,TRUE
+163361,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,80,FALSE,FALSE
+163376,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,65,FALSE,FALSE
+163376,"Creative Learning ES",3,"No","ELA","State Test","SPRING",2,68,FALSE,FALSE
+163376,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,49,FALSE,TRUE
+163385,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,95,TRUE,TRUE
+163385,"Creative Learning ES",3,"No","ELA","Screener","FALL",1,22,FALSE,FALSE
+163385,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,37,FALSE,FALSE
+163421,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,95,TRUE,TRUE
+163421,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,89,FALSE,TRUE
+163421,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,91,FALSE,FALSE
+163463,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,86,TRUE,TRUE
+163463,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,71,FALSE,TRUE
+163541,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,97,TRUE,TRUE
+163541,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,87,FALSE,TRUE
+163541,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,98,FALSE,FALSE
+163730,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,99,FALSE,FALSE
+163730,"Creative Learning ES",3,"No","ELA","State Test","SPRING",2,46,FALSE,FALSE
+163730,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,39,FALSE,FALSE
+164498,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,90,TRUE,TRUE
+164498,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,63,FALSE,TRUE
+164804,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",3,80,TRUE,TRUE
+164804,"Creative Learning ES",3,"Yes","ELA","Screener","SPRING",3,53,FALSE,TRUE
+164837,"Creative Learning ES",3,"No","ELA","State Test","SPRING",2,62,FALSE,FALSE
+164837,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,42,FALSE,TRUE
+165275,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",3,72,TRUE,TRUE
+165275,"Creative Learning ES",3,"Yes","ELA","Screener","SPRING",3,67,FALSE,TRUE
+165515,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",1,26,FALSE,FALSE
+165515,"Creative Learning ES",3,"Yes","ELA","Screener","SPRING",1,1,FALSE,FALSE
+165521,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,90,TRUE,TRUE
+165521,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,71,FALSE,TRUE
+165530,"Creative Learning ES",3,"No","ELA","Screener","FALL",2,38,FALSE,FALSE
+165530,"Creative Learning ES",3,"No","ELA","Screener","SPRING",2,19,FALSE,FALSE
+165530,"Creative Learning ES",3,"No","ELA","State Test","SPRING",1,20,FALSE,FALSE
+165533,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,92,TRUE,TRUE
+165536,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",1,26,FALSE,FALSE
+165551,"Creative Learning ES",3,"No","ELA","State Test","SPRING",2,39,FALSE,FALSE
+165557,"Creative Learning ES",3,"No","ELA","Screener","SPRING",2,18,FALSE,FALSE
+165557,"Creative Learning ES",3,"No","ELA","State Test","SPRING",1,26,FALSE,FALSE
+165560,"Creative Learning ES",3,"No","ELA","State Test","SPRING",2,46,FALSE,FALSE
+165560,"Creative Learning ES",3,"No","ELA","Screener","SPRING",2,26,FALSE,FALSE
+165839,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,80,TRUE,TRUE
+165839,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,75,FALSE,TRUE
+165839,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,84,FALSE,FALSE
+166049,"Creative Learning ES",3,"No","ELA","State Test","SPRING",1,1,FALSE,FALSE
+166049,"Creative Learning ES",3,"No","ELA","Screener","SPRING",1,6,FALSE,FALSE
+166067,"Creative Learning ES",3,"Yes","ELA","Screener","SPRING",3,83,FALSE,TRUE
+166067,"Creative Learning ES",3,"Yes","ELA","Screener","FALL",3,96,FALSE,FALSE
+166067,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",2,59,FALSE,FALSE
+166277,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,92,TRUE,TRUE
+166277,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,81,FALSE,TRUE
+166283,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,92,TRUE,TRUE
+166283,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,78,FALSE,TRUE
+166283,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,71,FALSE,FALSE
+166286,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,97,TRUE,TRUE
+166286,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,67,FALSE,TRUE
+166286,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,65,FALSE,FALSE
+166343,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,80,TRUE,TRUE
+166343,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,76,FALSE,TRUE
+166343,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,70,FALSE,FALSE
+166814,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,80,TRUE,TRUE
+167084,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,75,TRUE,TRUE
+167084,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,55,FALSE,FALSE
+167084,"Creative Learning ES",3,"No","ELA","Screener","SPRING",2,28,FALSE,FALSE
+167150,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,98,TRUE,TRUE
+167150,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,87,FALSE,TRUE
+167855,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,99,TRUE,TRUE
+167855,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,89,FALSE,TRUE
+167855,"Creative Learning ES",3,"No","ELA","Screener","FALL",4,99,FALSE,FALSE
+167867,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,73,FALSE,TRUE
+167867,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,63,FALSE,FALSE
+167867,"Creative Learning ES",3,"No","ELA","State Test","SPRING",2,65,FALSE,FALSE
+168539,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,83,TRUE,TRUE
+168539,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,53,FALSE,TRUE
+169403,"Creative Learning ES",3,"No","ELA","Screener","SPRING",4,99,FALSE,TRUE
+169403,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,99,TRUE,TRUE
+169403,"Creative Learning ES",3,"No","ELA","Screener","FALL",4,99,FALSE,FALSE
+170024,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,98,TRUE,TRUE
+170024,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,71,FALSE,TRUE
+170024,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,79,FALSE,FALSE
+170615,"Creative Learning ES",3,"No","ELA","Screener","FALL",1,13,FALSE,FALSE
+170615,"Creative Learning ES",3,"No","ELA","State Test","SPRING",2,59,FALSE,FALSE
+170615,"Creative Learning ES",3,"No","ELA","Screener","SPRING",1,8,FALSE,FALSE
+170633,"Creative Learning ES",3,"No","ELA","State Test","SPRING",1,13,FALSE,FALSE
+170672,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",2,43,FALSE,FALSE
+170672,"Creative Learning ES",3,"Yes","ELA","Screener","SPRING",2,26,FALSE,FALSE
+170678,"Creative Learning ES",3,"Yes","ELA","Screener","SPRING",1,13,FALSE,FALSE
+170678,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",1,20,FALSE,FALSE
+170690,"Creative Learning ES",3,"No","ELA","Screener","FALL",1,26,FALSE,FALSE
+170690,"Creative Learning ES",3,"No","ELA","State Test","SPRING",1,23,FALSE,FALSE
+170690,"Creative Learning ES",3,"No","ELA","Screener","SPRING",1,6,FALSE,FALSE
+170699,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,88,TRUE,TRUE
+170699,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,53,FALSE,TRUE
+170897,"Creative Learning ES",3,"No","ELA","State Test","SPRING",2,46,FALSE,FALSE
+170897,"Creative Learning ES",3,"No","ELA","Screener","FALL",4,99,FALSE,FALSE
+170915,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,95,FALSE,TRUE
+170915,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,90,TRUE,TRUE
+170924,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,93,FALSE,TRUE
+170924,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,98,TRUE,TRUE
+170933,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",2,49,FALSE,FALSE
+170933,"Creative Learning ES",3,"Yes","ELA","Screener","SPRING",2,24,FALSE,FALSE
+171191,"Creative Learning ES",3,"No","ELA","Screener","SPRING",4,99,FALSE,TRUE
+171191,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,90,TRUE,TRUE
+171191,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,99,FALSE,FALSE
+171194,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,68,FALSE,FALSE
+171194,"Creative Learning ES",3,"No","ELA","State Test","SPRING",1,4,FALSE,FALSE
+171194,"Creative Learning ES",3,"No","ELA","Screener","SPRING",1,7,FALSE,FALSE
+171203,"Creative Learning ES",3,"No","ELA","Screener","FALL",1,8,FALSE,FALSE
+171203,"Creative Learning ES",3,"No","ELA","Screener","SPRING",2,19,FALSE,FALSE
+171203,"Creative Learning ES",3,"No","ELA","State Test","SPRING",1,13,FALSE,FALSE
+171212,"Creative Learning ES",3,"No","ELA","Screener","FALL",2,52,FALSE,FALSE
+171212,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,34,FALSE,FALSE
+171212,"Creative Learning ES",3,"No","ELA","State Test","SPRING",1,8,FALSE,FALSE
+171218,"Creative Learning ES",3,"Yes","ELA","Screener","SPRING",3,48,FALSE,TRUE
+171218,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",2,46,FALSE,FALSE
+171218,"Creative Learning ES",3,"Yes","ELA","Screener","FALL",2,31,FALSE,FALSE
+171290,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,94,FALSE,TRUE
+171290,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,90,TRUE,TRUE
+171290,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,72,FALSE,FALSE
+171347,"Creative Learning ES",3,"Yes","ELA","Screener","SPRING",1,11,FALSE,FALSE
+171347,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",1,23,FALSE,FALSE
+171371,"Creative Learning ES",3,"No","ELA","State Test","SPRING",2,68,FALSE,FALSE
+171371,"Creative Learning ES",3,"No","ELA","Screener","FALL",2,48,FALSE,FALSE
+171371,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,32,FALSE,FALSE
+171377,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,83,TRUE,TRUE
+171377,"Creative Learning ES",3,"No","ELA","Screener","FALL",1,19,FALSE,FALSE
+171395,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,78,TRUE,TRUE
+171395,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,67,FALSE,TRUE
+171395,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,75,FALSE,FALSE
+171404,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,88,TRUE,TRUE
+171404,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,74,FALSE,TRUE
+171794,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",2,46,FALSE,FALSE
+171926,"Creative Learning ES",3,"Yes","ELA","Screener","SPRING",1,10,FALSE,FALSE
+171926,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",1,26,FALSE,FALSE
+172037,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,78,TRUE,TRUE
+172037,"Creative Learning ES",3,"No","ELA","Screener","FALL",1,25,FALSE,FALSE
+172037,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,34,FALSE,FALSE
+172163,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",2,39,FALSE,FALSE
+172823,"Creative Learning ES",3,"Yes","ELA","Screener","SPRING",3,78,FALSE,TRUE
+172823,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",2,59,FALSE,FALSE
+172823,"Creative Learning ES",3,"Yes","ELA","Screener","FALL",3,86,FALSE,FALSE
+172871,"Creative Learning ES",3,"No","ELA","Screener","SPRING",1,10,FALSE,FALSE
+172871,"Creative Learning ES",3,"No","ELA","State Test","SPRING",1,23,FALSE,FALSE
+172874,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",2,62,FALSE,FALSE
+172877,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,54,FALSE,TRUE
+172877,"Creative Learning ES",3,"No","ELA","State Test","SPRING",2,56,FALSE,FALSE
+172877,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,80,FALSE,FALSE
+172880,"Creative Learning ES",3,"Yes","ELA","Screener","SPRING",1,12,FALSE,FALSE
+172880,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",1,17,FALSE,FALSE
+172883,"Creative Learning ES",3,"No","ELA","State Test","SPRING",2,43,FALSE,FALSE
+172883,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,68,FALSE,FALSE
+172883,"Creative Learning ES",3,"No","ELA","Screener","SPRING",2,29,FALSE,FALSE
+173567,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,91,FALSE,TRUE
+173567,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,100,TRUE,TRUE
+173594,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,88,FALSE,TRUE
+173594,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,78,TRUE,TRUE
+173669,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",1,3,FALSE,FALSE
+173669,"Creative Learning ES",3,"Yes","ELA","Screener","SPRING",1,4,FALSE,FALSE
+174149,"Creative Learning ES",3,"Yes","ELA","Screener","SPRING",3,92,FALSE,TRUE
+174149,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",2,68,FALSE,FALSE
+174233,"Creative Learning ES",3,"No","ELA","Screener","SPRING",1,8,FALSE,FALSE
+174233,"Creative Learning ES",3,"No","ELA","State Test","SPRING",1,11,FALSE,FALSE
+175502,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,58,FALSE,TRUE
+175502,"Creative Learning ES",3,"No","ELA","State Test","SPRING",2,62,FALSE,FALSE
+175502,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,86,FALSE,FALSE
+175712,"Creative Learning ES",3,"No","ELA","Screener","SPRING",4,99,FALSE,TRUE
+175712,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,99,FALSE,FALSE
+177020,"Creative Learning ES",3,"No","ELA","State Test","SPRING",2,68,FALSE,FALSE
+177020,"Creative Learning ES",3,"No","ELA","Screener","SPRING",1,11,FALSE,FALSE
+177464,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,93,FALSE,TRUE
+177464,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,95,TRUE,TRUE
+177464,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,91,FALSE,FALSE
+178022,"Creative Learning ES",3,"Yes","ELA","Screener","SPRING",3,80,FALSE,TRUE
+178022,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",3,83,TRUE,TRUE
+178028,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,94,TRUE,TRUE
+178028,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,84,FALSE,TRUE
+178028,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,95,FALSE,FALSE
+185603,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,80,TRUE,TRUE
+185603,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,68,FALSE,TRUE
+185663,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,79,FALSE,TRUE
+185663,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,90,TRUE,TRUE
+185666,"Creative Learning ES",3,"No","ELA","State Test","SPRING",2,49,FALSE,FALSE
+185666,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,35,FALSE,FALSE
+185795,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,72,TRUE,TRUE
+185795,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,52,FALSE,TRUE
+185837,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,97,TRUE,TRUE
+185837,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,85,FALSE,TRUE
+185837,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,84,FALSE,FALSE
+186791,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,99,TRUE,TRUE
+186791,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,72,FALSE,TRUE
+186791,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,89,FALSE,FALSE
+186824,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,82,FALSE,TRUE
+186824,"Creative Learning ES",3,"No","ELA","State Test","SPRING",2,65,FALSE,FALSE
+186824,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,75,FALSE,FALSE
+192743,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,31,FALSE,FALSE
+192743,"Creative Learning ES",3,"No","ELA","State Test","SPRING",1,26,FALSE,FALSE
+198038,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,92,FALSE,TRUE
+198038,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,97,TRUE,TRUE
+198038,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,79,FALSE,FALSE
+199181,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,82,FALSE,TRUE
+199181,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,83,TRUE,TRUE
+199181,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,81,FALSE,FALSE
+199190,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,82,FALSE,TRUE
+199190,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,90,TRUE,TRUE
+199190,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,94,FALSE,FALSE
+199742,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",2,49,FALSE,FALSE
+200567,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,32,FALSE,FALSE
+200567,"Creative Learning ES",3,"No","ELA","State Test","SPRING",1,26,FALSE,FALSE
+200585,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,77,FALSE,TRUE
+200585,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,88,TRUE,TRUE
+201389,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",2,NA,FALSE,FALSE
+205571,"Creative Learning ES",3,"No","ELA","State Test","SPRING",2,68,FALSE,FALSE
+205571,"Creative Learning ES",3,"No","ELA","Screener","SPRING",2,16,FALSE,FALSE
+205571,"Creative Learning ES",3,"No","ELA","Screener","FALL",1,28,FALSE,FALSE
+210443,"Creative Learning ES",3,"No","ELA","State Test","SPRING",1,20,FALSE,FALSE
+210461,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,90,TRUE,TRUE
+210461,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,64,FALSE,TRUE
+210461,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,86,FALSE,FALSE
+210467,"Creative Learning ES",3,"Yes","ELA","Screener","SPRING",3,42,FALSE,TRUE
+210467,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",2,56,FALSE,FALSE
+210467,"Creative Learning ES",3,"Yes","ELA","Screener","FALL",2,37,FALSE,FALSE
+210476,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,91,FALSE,TRUE
+210476,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,83,TRUE,TRUE
+210476,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,85,FALSE,FALSE
+210479,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,99,TRUE,TRUE
+210479,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,86,FALSE,TRUE
+210479,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,90,FALSE,FALSE
+210482,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,98,TRUE,TRUE
+210482,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,83,FALSE,TRUE
+219230,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",1,1,FALSE,FALSE
+219230,"Creative Learning ES",3,"Yes","ELA","Screener","SPRING",1,3,FALSE,FALSE
+219776,"Creative Learning ES",3,"No","ELA","Screener","FALL",4,99,FALSE,FALSE
+220349,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,92,TRUE,TRUE
+220349,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,69,FALSE,TRUE
+220349,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,89,FALSE,FALSE
+221144,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,92,FALSE,TRUE
+221144,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,98,TRUE,TRUE
+221144,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,98,FALSE,FALSE
+221744,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,95,TRUE,TRUE
+221744,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,69,FALSE,TRUE
+221747,"Creative Learning ES",3,"Yes","ELA","Screener","SPRING",1,10,FALSE,FALSE
+221747,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",1,6,FALSE,FALSE
+222152,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,93,FALSE,TRUE
+222152,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,98,TRUE,TRUE
+222152,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,99,FALSE,FALSE
+222923,"Creative Learning ES",3,"No","ELA","Screener","FALL",2,45,FALSE,FALSE
+222923,"Creative Learning ES",3,"No","ELA","Screener","SPRING",1,10,FALSE,FALSE
+222923,"Creative Learning ES",3,"No","ELA","State Test","SPRING",1,26,FALSE,FALSE
+227888,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,37,FALSE,FALSE
+227888,"Creative Learning ES",3,"No","ELA","State Test","SPRING",2,59,FALSE,FALSE
+227888,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,72,FALSE,FALSE
+228698,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,35,FALSE,FALSE
+228698,"Creative Learning ES",3,"No","ELA","State Test","SPRING",2,49,FALSE,FALSE
+228698,"Creative Learning ES",3,"No","ELA","Screener","FALL",2,37,FALSE,FALSE
+228701,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,92,FALSE,TRUE
+228701,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,97,TRUE,TRUE
+228704,"Creative Learning ES",3,"No","ELA","Screener","SPRING",4,98,FALSE,TRUE
+228704,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,99,TRUE,TRUE
+228704,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,99,FALSE,FALSE
+228707,"Creative Learning ES",3,"No","ELA","State Test","SPRING",2,46,FALSE,FALSE
+228707,"Creative Learning ES",3,"No","ELA","Screener","FALL",1,14,FALSE,FALSE
+228707,"Creative Learning ES",3,"No","ELA","Screener","SPRING",1,9,FALSE,FALSE
+228719,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,49,FALSE,TRUE
+228719,"Creative Learning ES",3,"No","ELA","State Test","SPRING",2,49,FALSE,FALSE
+228719,"Creative Learning ES",3,"No","ELA","Screener","FALL",1,24,FALSE,FALSE
+228755,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,88,FALSE,TRUE
+228755,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,83,TRUE,TRUE
+228755,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,87,FALSE,FALSE
+228761,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,63,FALSE,TRUE
+228761,"Creative Learning ES",3,"No","ELA","State Test","SPRING",2,52,FALSE,FALSE
+228761,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,91,FALSE,FALSE
+228779,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,86,TRUE,TRUE
+228779,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,39,FALSE,FALSE
+228779,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,98,FALSE,FALSE
+228941,"Creative Learning ES",3,"No","ELA","Screener","SPRING",2,20,FALSE,FALSE
+228941,"Creative Learning ES",3,"No","ELA","State Test","SPRING",1,33,FALSE,FALSE
+228944,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,93,FALSE,TRUE
+228944,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,92,TRUE,TRUE
+228944,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,98,FALSE,FALSE
+228950,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,89,FALSE,TRUE
+228950,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,92,TRUE,TRUE
+228950,"Creative Learning ES",3,"No","ELA","Screener","FALL",4,99,FALSE,FALSE
+233654,"Creative Learning ES",3,"No","ELA","Screener","SPRING",4,95,FALSE,TRUE
+233654,"Creative Learning ES",3,"No","ELA","State Test","SPRING",3,86,TRUE,TRUE
+233654,"Creative Learning ES",3,"No","ELA","Screener","FALL",3,67,FALSE,FALSE
+239540,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",1,6,FALSE,FALSE
+239603,"Creative Learning ES",3,"Yes","ELA","State Test","SPRING",1,29,FALSE,FALSE
+240509,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,76,FALSE,TRUE
+240509,"Creative Learning ES",3,"No","ELA","State Test","SPRING",2,68,FALSE,FALSE
+240518,"Creative Learning ES",3,"No","ELA","Screener","SPRING",4,97,FALSE,TRUE
+240518,"Creative Learning ES",3,"No","ELA","State Test","SPRING",4,99,TRUE,TRUE
+241886,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,41,FALSE,TRUE
+241886,"Creative Learning ES",3,"No","ELA","State Test","SPRING",2,62,FALSE,FALSE
+242114,"Creative Learning ES",3,"No","ELA","Screener","SPRING",3,47,FALSE,TRUE
+242114,"Creative Learning ES",3,"No","ELA","State Test","SPRING",2,62,FALSE,FALSE
+243089,"Creative Learning ES",3,"No","ELA","Screener","SPRING",2,28,FALSE,FALSE
+243089,"Creative Learning ES",3,"No","ELA","State Test","SPRING",1,33,FALSE,FALSE
