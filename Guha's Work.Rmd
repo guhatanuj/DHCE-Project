@@ -1,0 +1,143 @@
+---
+title: "DHCE Project"
+author: "Tanuj 'Rick' Guha"
+date: "`r Sys.Date()`"
+output: powerpoint_presentation
+---
+
+## Introduction. 
+
+In this presentation we will compare different standards to qualify student promotion to the 4th grade. The first standard is called the **Basic Criteria**, and the second, the **Expanded Criteria**.
+
+## Criteria Definitions
+
+### Here are defitions of the two criteria of student promotion:
+
+* Basic Criteria: to be promoted to 4th grade is that a student must obtain a proficiency level of 3 or 4 on the Spring State Test in 3rd grade ELA.
+
+* Expanded Criteria: to be promoted to 4th grade a student a student must meet either the basic criteria, or they score at least at the 40th percentile on the 3rd grade Spring ELA screener.
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+#loading libraries
+library(tidyverse)
+library(readxl)
+library(openxlsx)
+library(datadictionary)
+library(sqldf)
+library(VennDiagram)
+library(ggplot2)
+library(gridExtra)
+library(grid)
+library(ggpubr)
+
+#loading the data
+grades = read.xlsx("ResearchAnalyst_InterviewProject_2023.xlsx",  sheet = 'Data')
+
+#extracting only ela grades 
+ela = grades[grades$Subject == "ELA",]
+```
+
+```{r, include=FALSE}
+#creating a dataset of all student that pass according to the basic criteria. 
+basic = ela[ela$Test == 'State Test' & ela$Testing.Window == "SPRING" & ela$Proficiency.Level > 2, ]
+
+#creating a dataset of all student score at least at the 40th percentile on the 3rd grade Spring ELA screener. 
+expandedOnly = ela[ela$Test == 'Screener' & ela$Testing.Window == "SPRING" & ela$Percentile > 39, ]
+
+#finally creating a dataset of all students that pass according to the expanded criteria
+expanded <- rbind(basic, expandedOnly)
+```
+
+```{r, include=FALSE}
+#while the above datasets are created for analysis within R, let us create an spreadsheet with information of students who were promoted based on the respective standards. 
+
+ela$Basic = ela$Test == 'State Test' & ela$Testing.Window == "SPRING" & ela$Proficiency.Level > 2
+
+ela$Expanded = (ela$Test == 'State Test' & ela$Testing.Window == "SPRING" & ela$Proficiency.Level > 2) | (ela$Test == 'Screener' & ela$Testing.Window == "SPRING" & ela$Percentile > 39)
+
+#quick internal check => output should be 0
+print(nrow(ela[ela$Basic == TRUE & ela$Expanded == FALSE, ]))
+
+#exporting the dataset out as a csv
+write.csv(ela, paste(getwd(),"gradePromotion.csv", sep = "\\"), row.names=FALSE)
+
+```
+
+## Calculating Retention Rates
+
+```{r, include=FALSE}
+rateB = nrow(basic) / nrow(ela)
+rateE = nrow(expanded) / nrow(ela)
+```
+
+```{r, echo = FALSE}
+print("Retention Rate when using Basic Criteria:")
+print(rateB)
+```
+
+```{r, echo = FALSE}
+print("Retention Rate when using Expanded Criteria:")
+print(rateE)
+```
+## Affect of Expanded Criteria on Disadvantaged Students
+
+Economically disadvantaged students make up a greater proportion of students who passed using the expanded criteria, when compared to students who passed using the basic criteria.
+
+```{r, include = FALSE}
+
+#creating a stacked bar graph of students who passed under basic criteria
+basic <- basic %>% 
+  mutate(Pass = "Basic")
+basicDis = ggplot(data = basic) +
+  geom_bar(aes(x = Pass, fill = factor(Economically.Disadvantaged)), position = "fill") + theme(legend.position="none")
+
+#creating a stacked bar graph of students who passed under basic criteria
+expanded <- expanded %>% 
+  mutate(Pass = "Expanded")
+expandedDis = ggplot(data = expanded) + geom_bar(aes(x = Pass, fill = factor(Economically.Disadvantaged)), position = "fill") + theme(legend.position="none")
+
+forLegend = ggplot(data = expanded) + geom_bar(aes(x = Pass, fill = factor(Economically.Disadvantaged)), position = "fill")
+legend = get_legend(forLegend)
+
+plotM = grid.arrange(basicDis, expandedDis, ncol=2)
+```
+
+```{r, echo = TRUE}
+grid.arrange(plotM, legend, nrow = 2)
+```
+
+
+```{r, include=FALSE}
+
+bne = as.data.frame(setdiff(basic$Student.ID, expandedOnly$Student.ID))
+enb = as.data.frame(setdiff(expandedOnly$Student.ID, basic$Student.ID))
+cross = nrow(basic)-nrow(bne)
+```
+
+## conitnue 4
+
+```{r}
+print ("Is ")
+print((nrow(basic)-nrow(bne)) == (nrow(expandedOnly)-nrow(enb)))
+
+```
+## pretty
+
+```{r, echo=FALSE}
+grid.newpage()
+draw.pairwise.venn(area1=nrow(basic), area2=nrow(expandedOnly),cross.area=cross,
+                   category=c("Basic","expandedOnly"),fill=c("Red","Yellow"))
+```
+
+
+```{r, include=FALSE}
+basicDR = nrow(basic[basic$Economically.Disadvantaged == 'Yes', ]) / nrow(basic)
+expandedOnlyDR = nrow(expandedOnly[expandedOnly$Economically.Disadvantaged == 'Yes', ]) / nrow(expandedOnly)
+```
+
+
+Student in expandedOnly but not in basic
+Student in basic, but not in expandedOnly
+How many more economically disadvantaged students does expanding the criteria help? 
